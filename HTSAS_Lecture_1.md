@@ -46,6 +46,8 @@
 - Great founders often do the sales + customer support themselves
 - Metrics: Ignore total registrations, look at activity, cohort retention, revenue
 
+---
+
 ***Dustin Moskovitz***
 
 ### Life of a Founder ###
